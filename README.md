@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Randall
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+👋 你好，欢迎光临我的主页，我是转接，也可以叫我Randall
+
+现在我正在通过leetcode学习C++，不定时更新刷题记录到我的博客～
+
+博客链接->[🔗https://blog.zhuanjie.ltd/](https://blog.zhuanjie.ltd/)
 
 个人主页->[🔗https://startpage.zhuanjie.ltd/](https://startpage.zhuanjie.ltd/)⬅️我的全部网站都在这里了～
 
